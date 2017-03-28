@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminpageLitecart.iml" filepath="$PROJECT_DIR$/.idea/modules/adminpageLitecart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminpageLitecart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/adminpageLitecart_main.iml" group="adminpageLitecart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adminpageLitecart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/adminpageLitecart_test.iml" group="adminpageLitecart" />
+    </modules>
+  </component>
+</project>
